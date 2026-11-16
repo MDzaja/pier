@@ -1,0 +1,21 @@
+pyproject.toml
+  s_12e7ac6768117d::t_826df160f66811 25
+uv.lock
+  s_12e7ac6768117d::t_13dd2d2ebbf450 525
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "bc1b507b9233bb5f0b63c72c569fee68c9581f91",
+  "prompts": {},
+  "sessions": {
+    "s_12e7ac6768117d": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e1a01737bffeCtpA0lr2JFtXDA",
+        "model": "unknown"
+      },
+      "human_author": "MDzaja <mirkodzaja0@gmail.com>"
+    }
+  }
+}
